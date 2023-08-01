@@ -1,4 +1,4 @@
-![image-3](https://github.com/gongchengran/RANSAC_test/assets/119594722/cb8f9a2f-1d95-41b5-b4d0-2aadc8783cbc)# RANSAC_test
+# RANSAC_test
 Ransac plane fitting test  
 # Build  
 cd RANSAC_test  
